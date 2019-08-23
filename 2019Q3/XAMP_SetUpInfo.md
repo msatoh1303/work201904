@@ -1,0 +1,30 @@
+- XAMP 環境の作成
+  - Windows(OS) ... サービス登録ができる環境(Home)でちょっとしたWebサイトならば十分
+  - Apache(HTTPD) ... Web
+  - PHP(Serer)  ... ServerSide Script
+  - MySQL(DB)   ... ORM
+
+- Webの要素技術
+  - HTML
+    - HTML 1/ 2/ 3/ 4
+    - いろいろあるが、一応のめどとして HTML1 レベル + div/ p などのタグに対して CSS適応される基本動作理解でいったんは初心者から離脱できそう
+      - 参考のウェブサイト
+        - いろいろなHTML解説サイトへのリンク
+           - https://style.potepan.com/articles/8426.html
+        - おすすめのHTML一覧Page(記載中)
+        - とほほの HTML概要
+           - http://www.tohoho-web.com/html/memo/index.htm
+        - とほほの HTMLリファレンス
+           - http://www.tohoho-web.com/html/
+  - CSS
+    - CSS 1/ 2/ 3
+      - 最低限、cssとHTMLが分離されていて
+      - CSSの適応や色など参考になるサイト
+        - https://www.colordic.org
+  - JavaScript
+    - jQuery(ジェイクエリー)
+      - https://jquery.com
+    - node.js
+      - https://nodejs.org/ja/
+  - これらの基礎の上で、WebページとDOMを理解すると良い（と思う）
+    - ... HTMLは SGML のサブセット
