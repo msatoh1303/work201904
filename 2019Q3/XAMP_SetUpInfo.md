@@ -18,7 +18,7 @@
            - http://www.tohoho-web.com/html/
   - CSS
     - CSS 1/ 2/ 3
-      - 最低限、cssとHTMLが分離されていて
+      - 最低限、cssとHTMLが分離されていていることを理解できれば大筋初心者から脱却できそう
       - CSSの適応や色など参考になるサイト
         - https://www.colordic.org
   - JavaScript
@@ -28,3 +28,5 @@
       - https://nodejs.org/ja/
   - これらの基礎の上で、WebページとDOMを理解すると良い（と思う）
     - ... HTMLは SGML のサブセット
+    - Web を"発明"者
+       - [ja.wikipedia.org/wiki/ティム・バーナーズ＝リー](https://ja.wikipedia.org/wiki/ティム・バーナーズ＝リー)
