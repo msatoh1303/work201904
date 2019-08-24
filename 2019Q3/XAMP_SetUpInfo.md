@@ -28,6 +28,8 @@
       - https://nodejs.org/ja/
   - これらの基礎の上で、WebページとDOMを理解すると良い（と思う）
     - ... HTMLは SGML のサブセット
+    - Web（URL、HTTP、HTML ）を発明して、Sir(英国騎士)となったおじさん
+       - [ja.wikipedia.org/wiki/ティム・バーナーズ＝リー](https://ja.wikipedia.org/wiki/ティム・バーナーズ＝リー)
 
 - Webの要素技術＋α
    - ソースコード管理 
