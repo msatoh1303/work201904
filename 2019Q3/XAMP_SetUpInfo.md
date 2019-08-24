@@ -18,7 +18,7 @@
            - http://www.tohoho-web.com/html/
   - CSS
     - CSS 1/ 2/ 3
-      - 最低限、cssとHTMLが分離されていて
+      - 最低限、cssとHTMLが分離されていていることを理解できれば大筋初心者から脱却できそう
       - CSSの適応や色など参考になるサイト
         - https://www.colordic.org
   - JavaScript
@@ -28,3 +28,21 @@
       - https://nodejs.org/ja/
   - これらの基礎の上で、WebページとDOMを理解すると良い（と思う）
     - ... HTMLは SGML のサブセット
+
+- Webの要素技術＋α
+   - ソースコード管理 
+     - Git
+        - クライアント
+           - Git Windows (Git本体/ CLI)
+              - https://gitforwindows.org/
+           - TortiseGit(GUI)/ Git Windows必須
+              - https://tortoisegit.org/   
+           - TortiseGit(GUI)/ 可能であれば、Git Windowsを導入
+              - https://www.sourcetreeapp.com/
+
+        - サーバー
+        　　- GitHub
+               - このサーバー
+            - GitBacket
+               - https://github.com/gitbucket/gitbucket
+               - https://qiita.com/msykiino/items/ce627e674b0352c50437
