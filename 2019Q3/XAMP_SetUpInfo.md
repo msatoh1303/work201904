@@ -28,5 +28,5 @@
       - https://nodejs.org/ja/
   - これらの基礎の上で、WebページとDOMを理解すると良い（と思う）
     - ... HTMLは SGML のサブセット
-    - Web を"発明"者
+    - Web の"発明"者
        - [ja.wikipedia.org/wiki/ティム・バーナーズ＝リー](https://ja.wikipedia.org/wiki/ティム・バーナーズ＝リー)
